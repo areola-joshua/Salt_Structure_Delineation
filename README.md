@@ -1,4 +1,6 @@
 🛢️ Salt Structure Delineation Using CNNs 🌊
+
+
 🚀 Deep-Sea Hydrocarbon Exploration using an Ensemble of Convolutional Neural Networks (CNNs). This project identifies and delineates salt structures in seismic data, leveraging the power of TensorFlow for efficient and accurate predictions.
 
 ✨ Features
@@ -53,8 +55,6 @@ salt-structure-delineation/
 🤝 Contribution
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-📄 License
-This project is licensed under the MIT License.
 
 📧 Contact
 For any inquiries, reach out via areolajoshua622@gmail.com.
